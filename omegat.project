@@ -50,7 +50,7 @@
             <!-- target files -->
             <mapping local="target/" repository="&STEP;/&TARGET_LANG;/" />
           </repository>
-          <repository type="http" url="https://raw.githubusercontent.com/capstanlqc-pisa/PISA_2025_en-ZZ_Dummy_OMT/5115a71b48c79856836405b706e9adf931063c1f/omegat">
+          <repository type="http" url="https://raw.githubusercontent.com/capstanlqc-pisa/PISA_2025_en-ZZ_Dummy_OMT/567b050c1c38f375e0f66c768cd3117dc4b5ced2/omegat">
             <mapping local="/tm/auto/zz/en-ZZ.tmx" repository="/project_save.tmx" />
           </repository>
       </repositories>
